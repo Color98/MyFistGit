@@ -1,0 +1,2 @@
+# MyFistGit
+just exercise
